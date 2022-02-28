@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BasicStore</string>
+    <string name="auth_screen_auth_error">Invalid username or password</string>
+    <string name="auth_screen_username_label">Username</string>
+    <string name="auth_screen_password_label">Password</string>
+    <string name="auth_screen_login_label">Log in</string>
+    <string name="catalogue_screen_logout_label">Log out</string>
+    <string name="catalogue_screen_back_label">Back</string>
+    <string name="catalogue_cart_item_count">Cart items: (%1$d)</string>
+    <string name="catalogue_add_product">Add to cart</string>
+    <string name="catalogue_remove_product">Remove</string>
+</resources>

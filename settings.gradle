@@ -1,0 +1,23 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "BasicStore"
+include ':app'
+include ':auth'
+include ':cart'
+include ':catalogue'
+include ':core'
+include ':data'
+include ':data:android'
+include ':domain'
